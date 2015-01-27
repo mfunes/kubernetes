@@ -8,4 +8,4 @@ Para instalar Kubernetes en la máquina hacemos:
 
 **sudo chmod +x kubernetes_install.sh**
 
-**sudo ./kubrenetes_install.sh**
+**sudo ./kubernetes_install.sh**
