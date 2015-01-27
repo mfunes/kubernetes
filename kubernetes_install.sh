@@ -2,7 +2,7 @@
 
 # Instalamos etcd
 
-curl -L  https://github.com/coreos/etcd/releases/download/v0.4.6/etcd-v0.4.6-li$
+curl -L  https://github.com/coreos/etcd/releases/download/v2.0.0-rc.1/etcd-v2.0.0-rc.1-linux-amd64.tar.gz -o etcd-v2.0.0-rc.1-linux-amd64.tar.gz
 
 tar xzvf etcd-v0.4.6-linux-amd64.tar.gz
 
